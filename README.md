@@ -31,29 +31,27 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 # FrameWork Plugins and Packages Used
 
-"devDependencies": {
-"@heroicons/react": "^2.1.1",
-"@mantine/core": "^7.6.2",
-"@mantine/hooks": "^7.6.2",
-"@material-tailwind/react": "^2.1.9",
-"@tabler/icons-react": "^3.1.0",
-"@types/react": "^18.2.64",
-"@types/react-dom": "^18.2.21",
-"@vitejs/plugin-react-swc": "^3.5.0",
-"autoprefixer": "^10.4.18",
-"axios": "^1.6.8",
-"eslint": "^8.57.0",
-"eslint-plugin-react": "^7.34.0",
-"eslint-plugin-react-hooks": "^4.6.0",
-"eslint-plugin-react-refresh": "^0.4.5",
-"particles.js": "^2.0.0",
-"postcss": "^8.4.35",
-"react-router-dom": "^6.22.3",
-"react-tsparticles": "^2.12.2",
-"sass": "^1.72.0",
-"tailwindcss": "^3.4.1",
-"vite": "^5.1.6"
-}
+1.**@heroicons/react**: "^2.1.1"\
+ 2.**"@mantine/core**: "^7.6.2",\
+ 3.**@mantine/hooks**: "^7.6.2",\
+ 4.**@material-tailwind/react**: "^2.1.9",\
+ 5.**@tabler/icons-react**: "^3.1.0",\
+ 6.**@types/react**: "^18.2.64",\
+ 7.**@types/react-dom**: "^18.2.21",\
+ 8.**@vitejs/plugin-react-swc**: "^3.5.0",\
+ 9.**autoprefixer**: "^10.4.18",\
+ 10.**axios**: "^1.6.8",\
+ 11.**eslint**: "^8.57.0",\
+ 12.**eslint-plugin-react**: "^7.34.0",\
+ 13.**eslint-plugin-react-hooks**: "^4.6.0",\
+ 14.**eslint-plugin-react-refresh**: "^0.4.5",\
+ 15.**particles.js**: "^2.0.0",\
+ 16.**postcss**: "^8.4.35",\
+ 17.**react-router-dom**: "^6.22.3",\
+ 18.**react-tsparticles**: "^2.12.2",\
+ 19.**sass**: "^1.72.0",\
+ 20.**tailwindcss**: "^3.4.1",\
+ 21.**vite**: "^5.1.6"\
 
 The Page Load time of the project is 162 ms in Asia-Japan-Tokyo region
 
