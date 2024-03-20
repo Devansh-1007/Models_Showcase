@@ -1,4 +1,5 @@
 import { IconCircleArrowRight } from "@tabler/icons-react";
+import { Link } from "react-router-dom";
 export const Hero = () => {
   return (
     <section>
@@ -16,8 +17,8 @@ export const Hero = () => {
               we&apos;re your gateway to understanding and leveraging the power
               of these technologies.
             </p>
-            <a
-              href="/models"
+            <Link
+              to="models"
               className="flex bg-transparent hover:bg-yellow-300 text-yellow-300 hover:text-black rounded shadow hover:shadow-lg py-2 px-4 border border-yellow-300 hover:border-transparent"
             >
               {/* <Link to={pathConstants.CARDS}> */}
@@ -27,7 +28,7 @@ export const Hero = () => {
               <div className="m-auto">
                 <IconCircleArrowRight className="h-8 w-8" />
               </div>
-            </a>
+            </Link>
           </div>
           <div className="p-8 mt-12 mb-6 md:mb-0 md:mt-0 ml-0 lg:w-2/3  justify-center">
             <div className="h-48 flex flex-wrap content-center">

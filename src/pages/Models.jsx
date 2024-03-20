@@ -8,8 +8,8 @@ import {
   SegmentedControl,
   Pagination,
 } from "@mantine/core";
-import { CustomNavbar } from "./CustomNavbar";
-import { MCard } from "./MCard";
+import { CustomNavbar } from "../components/CustomNavbar";
+import { MCard } from "../components/MCard";
 import pRes from "../api/api";
 
 import "@mantine/core/styles.css";

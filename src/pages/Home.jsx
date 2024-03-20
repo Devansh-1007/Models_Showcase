@@ -1,5 +1,5 @@
-import { CustomNavbar } from "./CustomNavbar";
-import { Hero } from "./Hero";
+import { CustomNavbar } from "../components/CustomNavbar";
+import { Hero } from "../components/Hero";
 export const Home = () => {
   return (
     <>

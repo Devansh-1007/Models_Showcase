@@ -1,11 +1,12 @@
+import { Link } from "react-router-dom";
 import github from "../assets/github.svg";
 import logo from "../assets/logo.svg";
 export const CustomNavbar = () => {
   return (
     <nav>
       <div className="flex flex-wrap items-center justify-between text-white gap-y-4">
-        <a
-          href="/"
+        <Link
+          to="/"
           className="mr-4 flex ml-2  cursor-pointer py-1.5 font-sans text-base font-semibold leading-relaxed tracking-normal text-inherit antialiased"
         >
           <img
@@ -13,7 +14,7 @@ export const CustomNavbar = () => {
             src={logo}
           ></img>
           <span className="backdrop-blur-xl">LLM Models Marketplace</span>
-        </a>
+        </Link>
 
         <button
           className="bg-white rounded-xl w-28 text-center align-middle font-sans text-xs font-bold uppercase"
