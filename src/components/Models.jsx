@@ -1,4 +1,3 @@
-import "@mantine/core/styles.css";
 import { useCallback, useEffect, useState } from "react";
 import {
   MantineProvider,
@@ -13,6 +12,7 @@ import { CustomNavbar } from "./CustomNavbar";
 import { MCard } from "./MCard";
 import pRes from "../api/api";
 
+import "@mantine/core/styles.css";
 const theme = createTheme({
   fontFamily: "Montserrat, sans-serif",
 });

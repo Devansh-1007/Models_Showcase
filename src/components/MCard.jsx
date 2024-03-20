@@ -1,8 +1,8 @@
-import "@mantine/core/styles.css";
 import { IconXboxX } from "@tabler/icons-react";
 import { useDisclosure } from "@mantine/hooks";
 import { Card, Image, Text, Badge, Button, Modal } from "@mantine/core";
 import { Details } from "./Details";
+import "@mantine/core/styles.css";
 export const MCard = (props) => {
   const [opened, { open, close }] = useDisclosure(false);
 

@@ -1,5 +1,5 @@
-import "@mantine/core/styles.css";
 import { Image, Text, Badge } from "@mantine/core";
+import "@mantine/core/styles.css";
 export const Details = (props) => {
   return (
     <div>

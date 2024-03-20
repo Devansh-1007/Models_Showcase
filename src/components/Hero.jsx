@@ -1,5 +1,4 @@
 import { IconCircleArrowRight } from "@tabler/icons-react";
-
 export const Hero = () => {
   return (
     <section>
