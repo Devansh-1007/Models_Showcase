@@ -54,6 +54,13 @@ This template provides a minimal setup to get React working in Vite with HMR and
 "tailwindcss": "^3.4.1",
 "vite": "^5.1.6"
 }
-![Alt text](image link)
 
-Feel free to explore and extend this template according to your project needs!
+The Page Load time of the project is 162 ms in Asia-Japan-Tokyo region
+
+<img width="801" alt="Screenshot 2024-03-11 at 16 02 41" src="https://github.com/Devansh-1007/Models_Showcase/blob/main/src/assets/Screenshot%20from%202024-03-21%2000-52-23.png">
+
+Website used to calculate the load time [Website](https://tools.pingdom.com/)
+
+<img width="723" alt="Screenshot 2024-03-11 at 15 34 48" src="https://github.com/Devansh-1007/Models_Showcase/blob/main/src/assets/Screenshot%20from%202024-03-21%2000-52-09.png">
+
+Website used to measure other parameters[Website](https://pagespeed.web.dev/)
